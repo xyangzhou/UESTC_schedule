@@ -1,0 +1,3 @@
+[submodule "tools/UESTC_login"]
+	path = tools/UESTC_login
+	url = https://github.com/xyangzhou/UESTC_login

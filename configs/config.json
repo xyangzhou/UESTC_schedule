@@ -1,0 +1,98 @@
+{
+    "termInfoUrl": "https://mapp.uestc.edu.cn/timetable/wap/default/get-index",
+    "weekInfoUrl": "https://mapp.uestc.edu.cn/timetable/wap/default/get-datatmp",
+    "headers": {
+        "Host": "mapp.uestc.edu.cn",
+        "Connection": "keep-alive",
+        "X-Requested-With": "XMLHttpRequest",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+        "Accept": "application/json, text/plain, */*",
+        "sec-ch-ua": "\"Google Chrome\";v=\"131\", \"Chromium\";v=\"131\", \"Not_A Brand\";v=\"24\"",
+        "Content-Type": "application/x-www-form-urlencoded",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Origin": "https://mapp.uestc.edu.cn",
+        "Sec-Fetch-Site": "same-origin",
+        "Sec-Fetch-Mode": "cors",
+        "Sec-Fetch-Dest": "empty",
+        "Referer": "https://mapp.uestc.edu.cn/site/weekschedule/index",
+        "Accept-Encoding": "gzip, deflate, br, zstd",
+        "Accept-Language": "zh-CN,zh;q=0.9,en-GB;q=0.8,en;q=0.7"
+    },
+    "cas_baseurl": "https://idas.uestc.edu.cn",
+    "cas_header": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "Accept-Encoding": "gzip, deflate, br, zstd",
+        "Accept-Language": "zh-CN,zh;q=0.9",
+        "Cache-Control": "no-cache",
+        "Connection": "keep-alive",
+        "DNT": "1",
+        "Host": "idas.uestc.edu.cn",
+        "Pragma": "no-cache",
+        "Sec-Fetch-Dest": "document",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Site": "none",
+        "Sec-Fetch-User": "?1",
+        "Upgrade-Insecure-Requests": "1",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "sec-ch-ua": "\"Chromium\";v=\"134\", \"Not:A-Brand\";v=\"24\", \"Microsoft Edge\";v=\"134\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\""
+    },
+    "courseTime": {
+        "1": {
+            "start": "08:30:00",
+            "end": "09:15:00"
+        },
+        "2": {
+            "start": "09:20:00",
+            "end": "10:05:00"
+        },
+        "3": {
+            "start": "10:20:00",
+            "end": "11:05:00"
+        },
+        "4": {
+            "start": "11:10:00",
+            "end": "11:55:00"
+        },
+        "5": {
+            "start": "14:30:00",
+            "end": "15:15:00"
+        },
+        "6": {
+            "start": "15:20:00",
+            "end": "16:05:00"
+        },
+        "7": {
+            "start": "16:20:00",
+            "end": "17:05:00"
+        },
+        "8": {
+            "start": "17:10:00",
+            "end": "17:55:00"
+        },
+        "9": {
+            "start": "19:30:00",
+            "end": "20:05:00"
+        },
+        "10": {
+            "start": "20:10:00",
+            "end": "20:55:00"
+        },
+        "11": {
+            "start": "21:10:00",
+            "end": "21:55:00"
+        },
+        "12": {
+            "start": "21:55:00",
+            "end": "22:40:00"
+        }
+    },
+    "data": {
+        "year": "2024-2025",
+        "term": "2",
+        "week": "1",
+        "type": "2"
+    }
+}
